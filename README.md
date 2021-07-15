@@ -3,7 +3,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=royryando" alt="royryando"/> <img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: he/him"/></p>
 
 <p>
-Hi, it's me Roy. I'm a Full Stack Web Developer (mostly) but I have several side projects on IoT, Desktop and Mobile too.
+Hi, my name is Roy. I'm a Full Stack Web Developer (mostly) but I have several side projects on IoT, Desktop and Mobile too.
 I like challenges (not when close to the deadline of course) and new technology.
 I love open source project ♥ but rarely to contribute because on the other hand I like to take several projects at once 💸
 </p>
@@ -24,7 +24,7 @@ I love open source project ♥ but rarely to contribute because on the other han
 
 <br/>
 
-<p align="center">Beside of code, I love music too, a lot</p>
+<p align="center">Beside of code, I love listening to music</p>
 
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=royryando&redirect=true">
