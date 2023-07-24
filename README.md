@@ -1,4 +1,4 @@
-<img src="https://oms.systems/assets/img/hello-world-2.bc8c5610.png" width="100%" alt="Hello, World!" />
+<img src="https://raw.githubusercontent.com/royryando/royryando/main/assets/hello-world.png" width="100%" alt="Hello, World!" />
 <br/>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=royryando" alt="royryando"/> <img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: he/him"/></p>
 
