@@ -27,8 +27,8 @@ I love open source project ♥ but rarely to contribute because on the other han
 <p align="center">Beside of code, I love listening to music</p>
 
 <p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=royryando&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=royryando&cover_image=true&theme=default" alt="spotify-github-profile">
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=royryando&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=royryando&cover_image=true&theme=default" alt="spotify-github-profile">
 </a>
 </p>
 
